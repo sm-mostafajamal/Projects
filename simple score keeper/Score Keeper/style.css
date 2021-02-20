@@ -1,0 +1,56 @@
+#ping { 
+    height: 350px;
+    width: 50%;
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+/* .winner{
+    color: green;
+}
+.lose {
+    color: red;
+} */
+select{
+    border-radius: 100px;
+    outline: none;
+}
+#details {
+    width: 50%;
+    margin-left: 315px ;
+    box-shadow: 1px 1px 1px 1px rgb(202, 202, 202) ;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 10px;
+}
+#ttl {
+    display: block;
+    box-shadow: 1px 1px 1px 1px rgb(202, 202, 202) ;
+    border-radius: 10px;
+    padding: 1px 10px 5px 10px;
+    margin-top: 2px;
+    
+}
+button {
+    padding: 10px 60px;
+    border: none;
+    border-radius: 10px;
+    outline: none;
+
+}
+button:hover{
+    background-color:rgb(180, 179, 253) ;
+}
+#reset {
+    padding: 10px 79px;
+    
+}
+#opts {
+    padding-left: 30px;
+}
+h1 {
+    margin: 20px 0 5px 0;
+}
+#p1{
+    margin-left: 5px;
+}
